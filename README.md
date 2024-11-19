@@ -124,5 +124,6 @@ The architecture combines several AWS services to create a cohesive and secure p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Dynamic-Data-Organizer.git
+   git clone https://github.com/aditiaherr/Dynamic-Data-Organizer.git
    cd Dynamic-Data-Organizer
+
